@@ -3,10 +3,8 @@
 This project is developed in React and we are using Tailwind CSS to style or application.
 
 ## Project Setup
-
-run npm i && npm start to start the development server
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## `npm i && npm start`
+That would start the development server Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### `npm test`
