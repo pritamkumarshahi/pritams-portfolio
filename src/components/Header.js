@@ -21,13 +21,13 @@ export default function Header() {
             Get in touch?
           </a>
         </nav>
-
         <a
-          href="./pritam_kumar_shahi.pdf"
-          className="inline-flex items-center bg-gray-700 border-0 py-1 px-3 focus:outline-none hover:bg-gray-600 rounded text-base mt-4 md:mt-0"
-          download = "pritam_kumar_shahi.pdf">
-            Hit me!
-          <DownloadIcon className="w-4 h-4 ml-1" />
+          href="/PritamKumarShahi.pdf"
+          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0"
+          download="PritamKumarShahi.pdf"
+        >
+          Download CV
+          <DownloadIcon className="w-4 h-5 ml-2" /> {/* Adjusted margin */}
         </a>
       </div>
     </header>
