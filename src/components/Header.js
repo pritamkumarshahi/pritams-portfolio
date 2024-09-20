@@ -18,7 +18,7 @@ export default function Header() {
             Skills
           </a>
           <a href="#contact" className="mr-5 hover:text-white">
-            Get in touch?
+            Get in touch
           </a>
         </nav>
         <a
